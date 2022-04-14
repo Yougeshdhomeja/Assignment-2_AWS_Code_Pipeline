@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Assignment-2 github-aws-codepipeline
+Description: Assignment-2 github-aws-codepipeline 
 Parameters:
   GitHubOwner:
     Type: String
